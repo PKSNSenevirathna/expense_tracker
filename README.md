@@ -16,7 +16,7 @@ A **Flutter-based** expense tracker that allows users to **add, view, and catego
 ---
 
 ## 🖼️ **Screenshots**  
-(Upload your screenshots here)
+![image alt](https://github.com/PKSNSenevirathna/expense_tracker/blob/36fc987d0791859cdf5dabea2b88dc1ae8f8114e/Screenshot%20.png)
 
 ---
 
